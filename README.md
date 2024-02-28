@@ -1,6 +1,6 @@
 # HealthcareDataAnalysis
 
-The HealthcareDataAnalysis project is a C# application designed to simulate the analysis of synthetic healthcare data, aiming to uncover insights into treatment effectiveness and patient outcomes. This project emphasizes adherence to HIPAA compliance standards, ensuring the privacy and security of patient data throughout the analysis process.
+The HealthcareDataAnalysis project is a C# application designed to simulate the analysis of synthetic healthcare data, aiming to uncover insights into treatment effectiveness and patient outcomes using python and data visualization. This project emphasizes adherence to HIPAA compliance standards, ensuring the privacy and security of patient data throughout the analysis process.
 
 ## Project Overview
 
@@ -15,7 +15,7 @@ The objective of HealthcareDataAnalysis is to demonstrate the potential of data 
 
 ## Tools & Technologies
 
-- **Language:** C#
+- **Language:** C#, python
 - **IDE:** Visual Studio
 - **Version Control:** Git and GitHub
 - **Dependencies:** .NET framework
