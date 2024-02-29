@@ -12,7 +12,7 @@ import seaborn as sns
 # In[2]:
 
 
-data = pd.read_csv(r"C:\Users\saisu\Desktop\Mis\newproject\patient_records.csv")
+data = pd.read_csv(r"file_path")
 
 
 # In[3]:
